@@ -2,3 +2,4 @@
 To co daje to jest ruter bezpieczeństwa.
 Szyfrowanie wielo skryptowe i programistyczne we wszystkich technologiach szyfrowania nawet w BTC.
 System szyfrowania na QR Cod i hasło 1 razowe na telefon. 
+BTC szfrowanie jest po to aby się nigdzie nie włamać. 
